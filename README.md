@@ -1,4 +1,4 @@
-# Anomaly temperature detection
+# GPT-2 text generator
 
 [![License](http://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/Solvve/ml_gas_stations_forecast/blob/master/LICENSE.txt)
 [![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-378/)
@@ -15,4 +15,6 @@ We follow the next steps:
 
 Dataset contains around 36000000 rows of polarity comments
 
+## Dataset
 
+1.https://huggingface.co/datasets/amazon_polarity
